@@ -14,7 +14,6 @@ module.exports = {
         'white': '#FFFFFF',
         'lightgreen': '#6E9277',
         'whitesmoke': '#F5F8F6',
-
       },
       boxShadow:{
         'btnshadow': '0px 0px 30px 2px green',
