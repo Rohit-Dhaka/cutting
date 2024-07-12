@@ -2,8 +2,8 @@ import React from 'react'
 import Cardimg1 from '../assets/images/webp/Rectangle1.webp'
 import Commonbtn from './Commonbtn'
 import Cardimg2 from '../assets/images/webp/Rectangle2.webp'
-import Topvector from '../assets/images/webp/vectortop.png'
-import Bottomvector from '../assets/images/webp/vectorbottom.png'
+import Topvector from '../assets/images/webp/vectortop.webp'
+import Bottomvector from '../assets/images/webp/vectorbottom.webp'
 
 
 const HeroSection = () => {
