@@ -37,9 +37,9 @@ const HeroSection = () => {
                             <div className=" bg-white border-[1.09px] border-solid border-[#0000001A] hover:shadow-cardshow duration-300">
                                 <img src={Cardimg2} alt="cardimg" className='w-full' />
                                 <div className="sm:p-[30px] p-[20px]">
-                                    <h5 className='text-black font-archivo font-semibold text-[25px] leading-[32px]'>Devices</h5>
-                                    <h6 className=' font-archivo font-normal text-[16px] leading-[24px] pt-4 sm:pb-[27px] pb-[20px]'>Our state-of-the-art devices are designed to target a variety of skin concerns with precision and efficacy.</h6>
-                                    <Commonbtn name="Our Devices" />
+                                    <h5 className='text-black font-archivo font-semibold text-[25px] leading-[32px]'>Treatments</h5>
+                                    <h6 className=' font-archivo font-normal text-[16px] leading-[24px] pt-4 sm:pb-[27px] pb-[20px]'>At Halsey Dermatology, we offer a comprehensive range of treatments to address your unique skin care needs.</h6>
+                                    <Commonbtn name="Our Treatments" />
                                 </div>
                             </div>
                         </div>
